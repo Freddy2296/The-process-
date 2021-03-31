@@ -70,7 +70,7 @@ Imagery is important. The large, background hero image is designed to be strikin
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-1. W3C Markup Validator - Results
+1. W3C Markup Validator - https://validator.w3.org/nu/?doc=https%3A%2F%2Ffreddy2296.github.io%2FThe-process-%2F.
 / W3C CSS Validator - http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffreddy2296.github.io%2FThe-process-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=
 # Testing User Stories from User Experience (UX) Section
 ##First Time Visitor Goals
@@ -117,7 +117,7 @@ a. In the home page you can get some knowledge on the band and their upcomings a
 know.
 ## Further Testing
 1.The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-1.The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+1.The website was viewed on a variety of devices such as Desktop, Laptop, iPhone11 & iPhoneX.
 1.A large amount of testing was done to ensure that all pages were linking correctly.
 1. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 ##Known Bugs
@@ -146,9 +146,9 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 1.Open Git Bash
 1.Change the current working directory to the location where you want the cloned directory to be made.
 1.Type git clone, and then paste the URL you copied in Step 3.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone  https://freddy2296.github.io/The-process-/.
 1.Press Enter. Your local clone will be created.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone  https://freddy2296.github.io/The-process-/.
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
