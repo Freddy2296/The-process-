@@ -43,52 +43,14 @@ As a Frequent User, I want to sign up to get more discounts on merchandise.
 .HTML5
 .CSS3
 
-#Frameworks, Libraries & Programs Used
-
-Code Institute Website
-View the live project here.
-
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
-
-
-User Experience (UX)
-User stories
-First Time Visitor Goals
-As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
-Returning Visitor Goals
-As a Returning Visitor, I want to find information about coding challenges.
-As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-As a Returning Visitor, I want to find community links.
-Frequent User Goals
-As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-As a Frequent User, I want to check to see if there are any new blog posts.
-As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-Design
+#Design
 Colour Scheme
-The two main colours used are Code Insititue red, and white.
+1.The two main colours used are Code Insititue red, and white.
 Typography
-The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+1.The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
 Imagery
 Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
-Wireframes
-Home Page Wireframe - View
-
-Mobile Wireframe - View
-
-Contact Us Page Wireframe - View
-
-Features
-Responsive on all device sizes
-
-Interactive elements
-
-Technologies Used
-Languages Used
-HTML5
-CSS3
-Frameworks, Libraries & Programs Used
+#Frameworks, Libraries & Programs Used
 1. Bootstrap 4.4.1:
 . Bootstrap was used to assist with the responsiveness and styling of the website.
 1.Hover.css:
@@ -108,8 +70,8 @@ Frameworks, Libraries & Programs Used
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-. W3C Markup Validator - Results
-/ W3C CSS Validator - Results
+1. W3C Markup Validator - Results
+/ W3C CSS Validator - http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffreddy2296.github.io%2FThe-process-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=
 # Testing User Stories from User Experience (UX) Section
 ##First Time Visitor Goals
 i. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the band and their music.

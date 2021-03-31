@@ -123,3 +123,8 @@ button:hover {
 body {
   background: lightblue url("https://f4.bcbits.com/img/a0464801798_5.jpg") no-repeat fixed center;
 }
+
+iframe{
+border: 0px;
+background-color: transparent;
+}

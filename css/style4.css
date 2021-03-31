@@ -123,3 +123,7 @@ button:hover {
 body {
   background: black url("https://www.itl.cat/pngfile/big/292-2928000_nirvana-wallpaper-hd-android.jpg") no-repeat fixed center;
 }
+iframe{
+border: 0px;
+background-color: transparent;
+}
